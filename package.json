@@ -1,0 +1,9 @@
+{
+  "name": "Wala",
+  "version": "0.0.0",
+  "description": "a JavaScript library to do efficiently spell checks using Levenshtein automata algorithm variant",
+  "main": "index.js",
+  "repository": "git@github.com:Segmentree/Levenshtein-automata.git",
+  "author": "Kamina <37193227+Segmentree@users.noreply.github.com>",
+  "license": "MIT"
+}
